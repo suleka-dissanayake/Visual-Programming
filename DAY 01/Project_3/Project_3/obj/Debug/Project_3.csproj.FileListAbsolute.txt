@@ -1,0 +1,8 @@
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\bin\Debug\Project_3.exe.config
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\bin\Debug\Project_3.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\bin\Debug\Project_3.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\obj\Debug\Project_3.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\obj\Debug\Project_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\obj\Debug\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\obj\Debug\Project_3.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2153\DAY 01\Project_3\Project_3\obj\Debug\Project_3.pdb
