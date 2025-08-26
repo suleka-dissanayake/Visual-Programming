@@ -1,0 +1,15 @@
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\bin\Debug\net6.0\Tutorial - Q9.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\bin\Debug\net6.0\Tutorial - Q9.deps.json
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\bin\Debug\net6.0\Tutorial - Q9.runtimeconfig.json
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\bin\Debug\net6.0\Tutorial - Q9.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\bin\Debug\net6.0\Tutorial - Q9.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.AssemblyInfoInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.AssemblyInfo.cs
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\refint\Tutorial - Q9.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\Tutorial - Q9.genruntimeconfig.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q9\Tutorial - Q9\obj\Debug\net6.0\ref\Tutorial - Q9.dll
