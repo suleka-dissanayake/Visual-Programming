@@ -1,0 +1,23 @@
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\bin\Debug\net6.0\Tutorial.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\bin\Debug\net6.0\Tutorial.deps.json
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\bin\Debug\net6.0\Tutorial.runtimeconfig.json
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\bin\Debug\net6.0\Tutorial.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\bin\Debug\net6.0\Tutorial.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.AssemblyInfo.cs
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\refint\Tutorial.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\Tutorial.genruntimeconfig.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial\Tutorial\obj\Debug\net6.0\ref\Tutorial.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.AssemblyInfo.cs
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\refint\Tutorial.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 02\Tutorial - Q1\Tutorial\obj\Debug\net6.0\Tutorial.pdb
