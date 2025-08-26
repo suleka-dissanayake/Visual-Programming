@@ -1,0 +1,15 @@
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.AssemblyInfoInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.AssemblyInfo.cs
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\bin\Debug\net6.0\Tutorial - Q3.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\bin\Debug\net6.0\Tutorial - Q3.deps.json
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\bin\Debug\net6.0\Tutorial - Q3.runtimeconfig.json
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\bin\Debug\net6.0\Tutorial - Q3.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\bin\Debug\net6.0\Tutorial - Q3.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\refint\Tutorial - Q3.dll
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\Tutorial - Q3.genruntimeconfig.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q3\Tutorial - Q3\obj\Debug\net6.0\ref\Tutorial - Q3.dll
