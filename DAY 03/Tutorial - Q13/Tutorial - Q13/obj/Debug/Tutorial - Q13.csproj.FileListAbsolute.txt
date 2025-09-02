@@ -1,0 +1,8 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\bin\Debug\Tutorial - Q13.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\bin\Debug\Tutorial - Q13.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\bin\Debug\Tutorial - Q13.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\obj\Debug\Tutorial - Q13.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\obj\Debug\Tutorial - Q13.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\obj\Debug\Tutorial - Q13.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\obj\Debug\Tutorial - Q13.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 03\Tutorial - Q13\Tutorial - Q13\obj\Debug\Tutorial - Q13.pdb
