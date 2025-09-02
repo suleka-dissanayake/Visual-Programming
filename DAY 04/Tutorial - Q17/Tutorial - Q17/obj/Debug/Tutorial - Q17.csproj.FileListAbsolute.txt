@@ -1,0 +1,8 @@
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\obj\Debug\Tutorial - Q17.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\obj\Debug\Tutorial - Q17.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\obj\Debug\Tutorial - Q17.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\bin\Debug\Tutorial - Q17.exe.config
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\bin\Debug\Tutorial - Q17.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\bin\Debug\Tutorial - Q17.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\obj\Debug\Tutorial - Q17.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 04\Tutorial - Q17\Tutorial - Q17\obj\Debug\Tutorial - Q17.pdb
