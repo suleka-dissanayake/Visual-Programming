@@ -1,0 +1,11 @@
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\bin\Debug\App - Q8.exe.config
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\bin\Debug\App - Q8.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\bin\Debug\App - Q8.pdb
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App - Q8.csproj.AssemblyReference.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App - Q8.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App___Q8.Form1.resources
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App___Q8.Properties.Resources.resources
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App - Q8.csproj.GenerateResource.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App - Q8.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App - Q8.exe
+C:\Users\2022ict81\Desktop\2022ICT81\IT 2143\DAY 05\App - Q8\App - Q8\obj\Debug\App - Q8.pdb
