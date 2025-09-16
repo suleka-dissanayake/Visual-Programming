@@ -1,0 +1,11 @@
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\bin\Debug\Buttons.exe.config
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\bin\Debug\Buttons.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\bin\Debug\Buttons.pdb
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.csproj.AssemblyReference.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.Form1.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.csproj.GenerateResource.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Buttons\Buttons\obj\Debug\Buttons.pdb

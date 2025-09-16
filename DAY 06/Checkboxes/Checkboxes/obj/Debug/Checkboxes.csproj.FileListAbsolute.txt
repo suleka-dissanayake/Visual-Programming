@@ -1,0 +1,11 @@
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\bin\Debug\Checkboxes.exe.config
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\bin\Debug\Checkboxes.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\bin\Debug\Checkboxes.pdb
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.csproj.AssemblyReference.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.Form1.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.Properties.Resources.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.csproj.GenerateResource.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Checkboxes\Checkboxes\obj\Debug\Checkboxes.pdb
