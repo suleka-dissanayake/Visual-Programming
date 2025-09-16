@@ -1,0 +1,11 @@
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\ComboBox\ComboBox\obj\Debug\ComboBox.pdb

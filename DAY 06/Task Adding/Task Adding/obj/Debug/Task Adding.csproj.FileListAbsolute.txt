@@ -1,0 +1,11 @@
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\bin\Debug\Task Adding.exe.config
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\bin\Debug\Task Adding.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\bin\Debug\Task Adding.pdb
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task Adding.csproj.AssemblyReference.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task Adding.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task_Adding.Form1.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task_Adding.Properties.Resources.resources
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task Adding.csproj.GenerateResource.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task Adding.csproj.CoreCompileInputs.cache
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task Adding.exe
+C:\Users\2022ict81.TECH0\Desktop\2022ICT81\IT 2143\DAY 06\Task Adding\Task Adding\obj\Debug\Task Adding.pdb
