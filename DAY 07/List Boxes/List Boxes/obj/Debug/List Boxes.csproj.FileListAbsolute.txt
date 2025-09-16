@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\bin\Debug\List Boxes.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\bin\Debug\List Boxes.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\bin\Debug\List Boxes.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List Boxes.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List Boxes.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List_Boxes.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List_Boxes.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List Boxes.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List Boxes.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List Boxes.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\List Boxes\List Boxes\obj\Debug\List Boxes.pdb

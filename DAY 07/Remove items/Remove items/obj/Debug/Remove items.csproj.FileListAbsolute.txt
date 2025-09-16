@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\bin\Debug\Remove items.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\bin\Debug\Remove items.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\bin\Debug\Remove items.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove items.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove items.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove_items.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove_items.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove items.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove items.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove items.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Remove items\Remove items\obj\Debug\Remove items.pdb
