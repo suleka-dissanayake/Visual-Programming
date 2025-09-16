@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\bin\Debug\Age Calculator.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age Calculator.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age_Calculator.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age_Calculator.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age Calculator.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age Calculator.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Age Calculator\Age Calculator\obj\Debug\Age Calculator.pdb

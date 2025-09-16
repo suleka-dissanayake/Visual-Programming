@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\bin\Debug\Change BgColor.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\bin\Debug\Change BgColor.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\bin\Debug\Change BgColor.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change BgColor.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change BgColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change_BgColor.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change_BgColor.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change BgColor.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change BgColor.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change BgColor.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Change BgColor\Change BgColor\obj\Debug\Change BgColor.pdb
