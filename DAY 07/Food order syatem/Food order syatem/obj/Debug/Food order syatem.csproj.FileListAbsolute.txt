@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\bin\Debug\Food order syatem.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\bin\Debug\Food order syatem.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\bin\Debug\Food order syatem.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food order syatem.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food order syatem.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food_order_syatem.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food_order_syatem.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food order syatem.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food order syatem.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food order syatem.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Food order syatem\Food order syatem\obj\Debug\Food order syatem.pdb

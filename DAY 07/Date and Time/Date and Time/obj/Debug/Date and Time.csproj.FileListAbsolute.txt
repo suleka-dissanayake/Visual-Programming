@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\bin\Debug\Date and Time.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\bin\Debug\Date and Time.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\bin\Debug\Date and Time.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date and Time.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date and Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date_and_Time.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date_and_Time.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date and Time.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date and Time.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date and Time.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Date and Time\Date and Time\obj\Debug\Date and Time.pdb

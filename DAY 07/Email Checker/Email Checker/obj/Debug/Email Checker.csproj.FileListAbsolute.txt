@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\bin\Debug\Email Checker.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\bin\Debug\Email Checker.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\bin\Debug\Email Checker.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email Checker.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email_Checker.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email_Checker.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email Checker.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email Checker.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email Checker.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 07\Email Checker\Email Checker\obj\Debug\Email Checker.pdb
