@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication_Table.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication_Table.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb
