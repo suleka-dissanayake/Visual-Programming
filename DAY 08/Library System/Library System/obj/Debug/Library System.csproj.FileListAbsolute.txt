@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library_System.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Library System\Library System\obj\Debug\Library System.pdb

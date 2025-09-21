@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\bin\Debug\Guess Number.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\bin\Debug\Guess Number.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\bin\Debug\Guess Number.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess_Number.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess_Number.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess Number.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess Number.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Guess Number\Guess Number\obj\Debug\Guess Number.pdb
