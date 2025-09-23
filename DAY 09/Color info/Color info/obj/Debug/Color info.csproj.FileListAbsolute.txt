@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\bin\Debug\Color info.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\bin\Debug\Color info.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\bin\Debug\Color info.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color info.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color info.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color_info.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color_info.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color info.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color info.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color info.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 08\Color info\Color info\obj\Debug\Color info.pdb
