@@ -1,0 +1,21 @@
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.csproj.AssemblyReference.cache
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.Form1.resources
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.Properties.Resources.resources
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.csproj.GenerateResource.cache
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.csproj.CoreCompileInputs.cache
+G:\IT2143(P)\Day9\form7\form7\bin\Debug\form7.exe.config
+G:\IT2143(P)\Day9\form7\form7\bin\Debug\form7.exe
+G:\IT2143(P)\Day9\form7\form7\bin\Debug\form7.pdb
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.exe
+G:\IT2143(P)\Day9\form7\form7\obj\Debug\form7.pdb
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\bin\Debug\form7.exe.config
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\bin\Debug\form7.exe
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\bin\Debug\form7.pdb
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.csproj.AssemblyReference.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.exe.config
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.Form1.resources
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.Properties.Resources.resources
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.csproj.GenerateResource.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.csproj.CoreCompileInputs.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.exe
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form7\form7\obj\Debug\form7.pdb

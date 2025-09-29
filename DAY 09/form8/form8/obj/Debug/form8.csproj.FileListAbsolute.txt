@@ -1,0 +1,21 @@
+G:\IT2143(P)\Day9\form8\form8\bin\Debug\form8.exe.config
+G:\IT2143(P)\Day9\form8\form8\bin\Debug\form8.exe
+G:\IT2143(P)\Day9\form8\form8\bin\Debug\form8.pdb
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.csproj.AssemblyReference.cache
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.Form1.resources
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.Properties.Resources.resources
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.csproj.GenerateResource.cache
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.csproj.CoreCompileInputs.cache
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.exe
+G:\IT2143(P)\Day9\form8\form8\obj\Debug\form8.pdb
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\bin\Debug\form8.exe.config
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\bin\Debug\form8.exe
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\bin\Debug\form8.pdb
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.csproj.AssemblyReference.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.exe.config
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.Form1.resources
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.Properties.Resources.resources
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.csproj.GenerateResource.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.csproj.CoreCompileInputs.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.exe
+C:\Users\Suleka Dissanayake\Downloads\Compressed\Day9\form8\form8\obj\Debug\form8.pdb
