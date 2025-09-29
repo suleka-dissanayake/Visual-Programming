@@ -1,0 +1,11 @@
+G:\IT2143(P)\ColorApp\ColorApp\bin\Debug\ColorApp.exe.config
+G:\IT2143(P)\ColorApp\ColorApp\bin\Debug\ColorApp.exe
+G:\IT2143(P)\ColorApp\ColorApp\bin\Debug\ColorApp.pdb
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.csproj.AssemblyReference.cache
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.Form1.resources
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.Properties.Resources.resources
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.csproj.GenerateResource.cache
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.csproj.CoreCompileInputs.cache
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.exe
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.pdb
+G:\IT2143(P)\ColorApp\ColorApp\obj\Debug\ColorApp.exe.config
