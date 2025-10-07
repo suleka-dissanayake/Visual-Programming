@@ -1,0 +1,11 @@
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.exe.config
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.pdb
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.AssemblyReference.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Form1.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.GenerateResource.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.exe
+C:\Users\2022ICT81\Desktop\2022ICT81\IT 2143\DAY 09\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.pdb
