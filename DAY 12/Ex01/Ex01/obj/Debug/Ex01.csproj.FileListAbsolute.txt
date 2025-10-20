@@ -1,0 +1,11 @@
+F:\IT2143(P)\Day15\Ex01\Ex01\bin\Debug\Ex01.exe.config
+F:\IT2143(P)\Day15\Ex01\Ex01\bin\Debug\Ex01.exe
+F:\IT2143(P)\Day15\Ex01\Ex01\bin\Debug\Ex01.pdb
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.csproj.AssemblyReference.cache
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.csproj.SuggestedBindingRedirects.cache
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.Form1.resources
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.Properties.Resources.resources
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.csproj.GenerateResource.cache
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.csproj.CoreCompileInputs.cache
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.exe
+F:\IT2143(P)\Day15\Ex01\Ex01\obj\Debug\Ex01.pdb

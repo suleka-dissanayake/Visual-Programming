@@ -1,0 +1,43 @@
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.AssemblyReference.cache
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.Form1.resources
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.Properties.Resources.resources
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.GenerateResource.cache
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.CoreCompileInputs.cache
+H:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.exe.config
+H:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.exe
+H:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.pdb
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.exe
+H:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.pdb
+G:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.exe.config
+G:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.exe
+G:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.pdb
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.AssemblyReference.cache
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.exe.config
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.Form1.resources
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.Properties.Resources.resources
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.GenerateResource.cache
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.CoreCompileInputs.cache
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.exe
+G:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.pdb
+F:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.exe.config
+F:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.exe
+F:\IT2143(P)\Day15\comboandlist\comboandlist\bin\Debug\comboandlist.pdb
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.AssemblyReference.cache
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.SuggestedBindingRedirects.cache
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.Form1.resources
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.Properties.Resources.resources
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.GenerateResource.cache
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.CoreCompileInputs.cache
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.exe
+F:\IT2143(P)\Day15\comboandlist\comboandlist\obj\Debug\comboandlist.pdb
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\bin\Debug\comboandlist.exe.config
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\bin\Debug\comboandlist.exe
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\bin\Debug\comboandlist.pdb
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.AssemblyReference.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.exe.config
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.Form1.resources
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.Properties.Resources.resources
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.GenerateResource.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.csproj.CoreCompileInputs.cache
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.exe
+C:\Users\Suleka Dissanayake\Downloads\Compressed\comboandlist\comboandlist\obj\Debug\comboandlist.pdb
