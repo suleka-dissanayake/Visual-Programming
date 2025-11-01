@@ -1,0 +1,13 @@
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\bin\Debug\StudentDB.mdf
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\bin\Debug\StudentDB_log.ldf
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\bin\Debug\Project01.exe.config
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\bin\Debug\Project01.exe
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\bin\Debug\Project01.pdb
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\StudentDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\StudentDatabaseApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\Project01.Form1.resources
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\Project01.Properties.Resources.resources
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\StudentDatabaseApp.csproj.GenerateResource.cache
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\StudentDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\Project01.exe
+C:\Users\2022ict90\Desktop\Second year\Visual Studio\DAY15\Project01\obj\Debug\Project01.pdb
