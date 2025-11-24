@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|c:\\users\\suleka dissanayake\\desktop\\loginform\\loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\loginform\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0C42D-C5E6-4DBF-A50E-01B02D32AF82}|LoginForm\\LoginForm.csproj|solutionrelative:loginform\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Register.Designer.cs",
+              "RelativeToolTip": "LoginForm\\Register.Designer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAIAwwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:58:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Form1.Designer.cs",
+              "RelativeToolTip": "LoginForm\\Form1.Designer.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAIAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T09:58:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\MainForm.cs",
+              "RelativeToolTip": "LoginForm\\MainForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:12:08.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Register.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Register.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Register.cs",
+              "RelativeToolTip": "LoginForm\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T07:05:55.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeToolTip": "LoginForm\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAhwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:59:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "LoginForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "LoginForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:55:12.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Register.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Register.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Register.cs [Design]",
+              "RelativeToolTip": "LoginForm\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:46:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Form1.cs",
+              "RelativeDocumentMoniker": "LoginForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\LoginForm\\LoginForm\\Form1.cs [Design]",
+              "RelativeToolTip": "LoginForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:08:49.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
