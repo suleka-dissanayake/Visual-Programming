@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\bin\Debug\Check Box 2.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\bin\Debug\Check Box 2.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\bin\Debug\Check Box 2.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check Box 2.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check Box 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check_Box_2.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check_Box_2.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check Box 2.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check Box 2.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check Box 2.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\Check Box 2\Check Box 2\obj\Debug\Check Box 2.pdb

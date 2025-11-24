@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\bin\Debug\RadioBtn1.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\bin\Debug\RadioBtn1.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\bin\Debug\RadioBtn1.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day7\RadioBtn1\RadioBtn1\obj\Debug\RadioBtn1.pdb

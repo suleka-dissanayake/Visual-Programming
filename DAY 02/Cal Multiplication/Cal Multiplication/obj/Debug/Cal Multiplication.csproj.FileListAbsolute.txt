@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\bin\Debug\Cal Multiplication.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\bin\Debug\Cal Multiplication.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\bin\Debug\Cal Multiplication.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal Multiplication.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal Multiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal_Multiplication.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal_Multiplication.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal Multiplication.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal Multiplication.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Multiplication\Cal Multiplication\obj\Debug\Cal Multiplication.pdb

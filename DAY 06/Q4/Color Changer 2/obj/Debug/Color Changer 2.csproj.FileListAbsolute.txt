@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\bin\Debug\Color Changer 2.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\bin\Debug\Color Changer 2.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\bin\Debug\Color Changer 2.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color Changer 2.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color Changer 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color_Changer_2.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color_Changer_2.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color Changer 2.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color Changer 2.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color Changer 2.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day6\Color Changer 2\Color Changer 2\obj\Debug\Color Changer 2.pdb

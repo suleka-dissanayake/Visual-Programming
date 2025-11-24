@@ -1,0 +1,8 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\bin\Debug\Tu01Q14.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\bin\Debug\Tu01Q14.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\bin\Debug\Tu01Q14.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\obj\Debug\Tu01Q14.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\obj\Debug\Tu01Q14.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\obj\Debug\Tu01Q14.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\obj\Debug\Tu01Q14.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day4\Tu01Q14\Tu01Q14\obj\Debug\Tu01Q14.pdb

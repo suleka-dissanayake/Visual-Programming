@@ -1,0 +1,12 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\bin\Debug\Day02_IT2143(P).exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\bin\Debug\Day02_IT2143(P).exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\bin\Debug\Day02_IT2143(P).pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143(P).csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143(P).csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143_P_.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143_P_.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143(P).csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143(P).csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143(P).exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143(P).pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Day02_IT2143(P)\Day02_IT2143(P)\obj\Debug\Day02_IT2143_P_.Calculator.resources

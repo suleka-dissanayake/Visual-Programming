@@ -1,0 +1,13 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDB.mdf
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDB_log.ldf
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 17\StudentDatabaseApp\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb

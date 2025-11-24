@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\librarydc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|c:\\users\\suleka dissanayake\\desktop\\day 23\\librarydc\\librarydc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\librarydc\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\librarydc\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\librarydc\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\librarydc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\librarydc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73D5B2E5-5EFF-4C0A-8CD8-054D014373F0}|LibraryDC\\LibraryDC.csproj|solutionrelative:librarydc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\Book.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Book.cs",
+              "RelativeToolTip": "LibraryDC\\Book.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwFoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:56:37.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\BooksForm.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\BooksForm.cs",
+              "ToolTip": "C:\\Users\\2022ICT68\\Desktop\\Visual Programming\\Day 23\\LibraryDC\\LibraryDC\\BooksForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\2022ICT68\\Desktop\\Visual Programming\\Day 23\\LibraryDC\\LibraryDC\\BooksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-24T13:56:37.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksForm.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\BooksForm.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\BooksForm.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\BooksForm.cs",
+              "RelativeToolTip": "LibraryDC\\BooksForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-24T13:56:37.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Menu.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\Menu.cs",
+              "ToolTip": "C:\\Users\\2022ICT68\\Desktop\\Visual Programming\\Day 23\\LibraryDC\\LibraryDC\\Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\2022ICT68\\Desktop\\Visual Programming\\Day 23\\LibraryDC\\LibraryDC\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-24T13:56:37.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Menu.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\Menu.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Menu.cs",
+              "RelativeToolTip": "LibraryDC\\Menu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-24T13:56:37.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Login.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\Login.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Login.cs",
+              "RelativeToolTip": "LibraryDC\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:56:37.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Login.cs",
+              "RelativeDocumentMoniker": "LibraryDC\\Login.cs",
+              "ToolTip": "C:\\Users\\Suleka Dissanayake\\Desktop\\Day 23\\LibraryDC\\LibraryDC\\Login.cs [Design]",
+              "RelativeToolTip": "LibraryDC\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:56:38.138Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

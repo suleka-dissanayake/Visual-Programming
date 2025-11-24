@@ -1,0 +1,8 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\bin\Debug\My Second.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\bin\Debug\My Second.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\bin\Debug\My Second.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\obj\Debug\My Second.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\obj\Debug\My Second.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\obj\Debug\My Second.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\obj\Debug\My Second.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\My Second\My Second\obj\Debug\My Second.pdb

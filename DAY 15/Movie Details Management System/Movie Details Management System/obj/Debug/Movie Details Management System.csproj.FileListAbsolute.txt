@@ -1,0 +1,13 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\bin\Debug\Movie Details Management System.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\bin\Debug\Movie Details Management System.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\bin\Debug\Movie Details Management System.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie Details Management System.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie Details Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie_Details_Management_System.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie_Details_Management_System.Form2.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie_Details_Management_System.Form3.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie_Details_Management_System.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie Details Management System.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie Details Management System.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie Details Management System.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 15\Movie Details Management System\Movie Details Management System\obj\Debug\Movie Details Management System.pdb

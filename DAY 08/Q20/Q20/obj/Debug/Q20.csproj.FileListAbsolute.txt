@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\bin\Debug\Q20.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\bin\Debug\Q20.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\bin\Debug\Q20.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Q20\Q20\obj\Debug\Q20.pdb

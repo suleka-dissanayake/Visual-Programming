@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\bin\Debug\Age.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\bin\Debug\Age.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\bin\Debug\Age.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day8\Age\Age\obj\Debug\Age.pdb

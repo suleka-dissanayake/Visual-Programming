@@ -1,0 +1,8 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\bin\Debug\My 3rd.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\bin\Debug\My 3rd.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\bin\Debug\My 3rd.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\obj\Debug\My 3rd.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\obj\Debug\My 3rd.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\obj\Debug\My 3rd.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\obj\Debug\My 3rd.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\My 3rd\My 3rd\obj\Debug\My 3rd.pdb

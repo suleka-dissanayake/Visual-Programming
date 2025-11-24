@@ -1,0 +1,8 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\bin\Debug\My First.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\bin\Debug\My First.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\bin\Debug\My First.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\obj\Debug\My First.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\obj\Debug\My First.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\obj\Debug\My First.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\obj\Debug\My First.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\My First\My First\obj\Debug\My First.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color Changer 2", "Color Changer 2\Color Changer 2.csproj", "{639F4857-BB3C-49B1-970C-3831A3C4A807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639F4857-BB3C-49B1-970C-3831A3C4A807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639F4857-BB3C-49B1-970C-3831A3C4A807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639F4857-BB3C-49B1-970C-3831A3C4A807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639F4857-BB3C-49B1-970C-3831A3C4A807}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B477450D-1AFD-4D93-A2EC-CB41D0FA60CA}
+	EndGlobalSection
+EndGlobal

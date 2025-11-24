@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\bin\Debug\Cal Div.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\bin\Debug\Cal Div.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\bin\Debug\Cal Div.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal Div.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal Div.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal_Div.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal_Div.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal Div.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal Div.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal Div.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day2\Cal Div\Cal Div\obj\Debug\Cal Div.pdb

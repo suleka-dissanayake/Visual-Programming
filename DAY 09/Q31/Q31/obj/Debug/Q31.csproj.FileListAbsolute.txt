@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\bin\Debug\Q31.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\bin\Debug\Q31.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\bin\Debug\Q31.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day9\Q31\Q31\obj\Debug\Q31.pdb

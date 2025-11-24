@@ -1,0 +1,11 @@
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\bin\Debug\eContact.exe.config
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\bin\Debug\eContact.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\bin\Debug\eContact.pdb
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.csproj.AssemblyReference.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.Form1.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.Properties.Resources.resources
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.csproj.GenerateResource.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.csproj.CoreCompileInputs.cache
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.exe
+C:\Users\2022ICT68\Desktop\Visual Programming\Day 18\eContact\eContact\obj\Debug\eContact.pdb
